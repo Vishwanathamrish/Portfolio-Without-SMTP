@@ -26,7 +26,7 @@ A modern, responsive personal portfolio website built with Flask and TailwindCSS
   - HTML5 for structure
   - TailwindCSS for styling
   - Vanilla JavaScript for interactivity
-  ```
+  - 
   - Lucide Icons for UI elements
 │   ├── images/       # Project and profile pictures
 │   └── pdf/          # Resume and other documents
