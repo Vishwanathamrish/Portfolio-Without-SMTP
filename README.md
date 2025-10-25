@@ -26,8 +26,13 @@ A modern, responsive personal portfolio website built with Flask and TailwindCSS
   - HTML5 for structure
   - TailwindCSS for styling
   - Vanilla JavaScript for interactivity
-  - 
   - Lucide Icons for UI elements
+
+
+```
+portfolio-site/
+├── app.py              # Flask application entry point with SMTP email integration
+├── static/            # Static assets
 │   ├── images/       # Project and profile pictures
 │   └── pdf/          # Resume and other documents
 └── templates/         # HTML templates with inline TailwindCSS and JavaScript
@@ -37,7 +42,6 @@ A modern, responsive personal portfolio website built with Flask and TailwindCSS
     ├── home.html     # Home page
     └── project.html  # Projects page
 ```
-
 Note: CSS and JavaScript are implemented inline in HTML files using TailwindCSS and vanilla JavaScript for optimal performance.
 
 ## Setup and Installation
@@ -99,3 +103,4 @@ Feel free to reach out to me for any questions or collaboration opportunities.
 ---
 
 Made with ❤️ by Vishwanath.R
+
