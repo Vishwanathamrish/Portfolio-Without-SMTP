@@ -26,6 +26,7 @@ A modern, responsive personal portfolio website built with Flask and TailwindCSS
   - HTML5 for structure
   - TailwindCSS for styling
   - Vanilla JavaScript for interactivity
+  ```
   - Lucide Icons for UI elements
 │   ├── images/       # Project and profile pictures
 │   └── pdf/          # Resume and other documents
@@ -96,4 +97,5 @@ Feel free to reach out to me for any questions or collaboration opportunities.
 - GitHub: https://github.com/Vishwanathamrish
 
 ---
+
 Made with ❤️ by Vishwanath.R
